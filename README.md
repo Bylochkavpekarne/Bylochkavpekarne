@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bylochkavpekarne
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on ...
-- 📫 My telegram @Bylochka_V_Pekarne
-- 😄 Pronouns: He/him
+- 👋 Hi, I'm @Bylochkavpekarne, or just Kirill
+- 👀 I'm interested in programming and graphic design
+- 🌱 I'm currently learning Python and Figma
+- 📚 I speak Russian C2, Ukrainian C2, and English B2
+- 📫 My Telegram: @Bylochka_V_Pekarne
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have ADHD
 
 <!---
